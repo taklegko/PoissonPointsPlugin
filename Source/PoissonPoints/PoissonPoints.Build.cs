@@ -1,4 +1,5 @@
-// Some copyright should be here...
+// Copyright (c) 2024 Marina Eremina
+// This code is distributed under the MIT License.
 
 using UnrealBuildTool;
 
