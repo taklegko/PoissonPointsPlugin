@@ -60,10 +60,5 @@ The Poisson Points Plugin provides a tool to generate evenly distributed random 
 #### Returns:
 - `TArray<FVector2D>`: An array of `FVector2D` containing the generated points.
 
-#### Example:
-```cpp
-TArray<FVector2D> Points = UPoissonPoints::GeneratePoissonPoints(12345, 500.0f, 500.0f, 20.0f, 30);
-```
-
 #### License
 This code is distributed under the MIT License.
