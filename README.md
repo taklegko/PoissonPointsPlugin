@@ -15,7 +15,7 @@ The Poisson Points Plugin provides a tool to generate evenly distributed random 
    - Download the Poisson Disk Sampler Plugin from the repository or marketplace.
 
 2. **Install the Plugin:**
-   - Extract the `PoissonDiskSamplerPlugin` folder into your project's `Plugins` directory.
+   - Extract the `PoissonDiskSamplerPlugin` folder into your project's `Engine/Plugins/Marketplace` directory.
 
 3. **Enable the Plugin:**
    - Open your Unreal Engine project.
