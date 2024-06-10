@@ -2,7 +2,8 @@
 
 ## Description
 The Possion Points Plugin provides a tool to generate evenly distributed random points within a specified area using the Poisson Disk Sampling algorithm. This plugin is useful for applications requiring non-overlapping points, such as procedural content generation in games.
-![image](https://github.com/taklegko/PossionPointsPlugin/assets/168089606/22540c76-d813-44ae-ad03-c1d711191365)
+![1_93EtzInFnl4hZNCeYoTEVg](https://github.com/taklegko/PoissonPointsPlugin/assets/168089606/d8df883d-9c9c-4890-b068-76b272200561)
+
 
 ## Features
 - Generate evenly distributed random points.
