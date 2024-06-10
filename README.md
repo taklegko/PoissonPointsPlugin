@@ -2,6 +2,7 @@
 
 ## Description
 The Possion Points Plugin provides a tool to generate evenly distributed random points within a specified area using the Poisson Disk Sampling algorithm. This plugin is useful for applications requiring non-overlapping points, such as procedural content generation in games.
+![image](https://github.com/taklegko/PossionPointsPlugin/assets/168089606/22540c76-d813-44ae-ad03-c1d711191365)
 
 ## Features
 - Generate evenly distributed random points.
@@ -30,6 +31,9 @@ The Possion Points Plugin provides a tool to generate evenly distributed random 
    - Add the `GeneratePoissonPoints` node from the Poisson Points category.
    - Set the parameters for Width, Height, Radius, and MaxAttempts.
    - The function will return an array of `FVector2D` containing the generated points.
+  
+     ![image](https://github.com/taklegko/PossionPointsPlugin/assets/168089606/1eb956a4-86ba-4bc5-8ffc-3c4840e8e7e9)
+
 
 3. **Using in C++:**
    - Include the `PoissonPoints.h` header in your C++ file:
