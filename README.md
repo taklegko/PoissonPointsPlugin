@@ -1,7 +1,7 @@
-# Possion Points Unreal Engine Plugin
+# Poisson Points Unreal Engine Plugin
 
 ## Description
-The Possion Points Plugin provides a tool to generate evenly distributed random points within a specified area using the Poisson Disk Sampling algorithm. This plugin is useful for applications requiring non-overlapping points, such as procedural content generation in games.
+The Poisson Points Plugin provides a tool to generate evenly distributed random points within a specified area using the Poisson Disk Sampling algorithm. This plugin is useful for applications requiring non-overlapping points, such as procedural content generation in games.
 ![1_93EtzInFnl4hZNCeYoTEVg](https://github.com/taklegko/PoissonPointsPlugin/assets/168089606/d8df883d-9c9c-4890-b068-76b272200561)
 
 
@@ -33,7 +33,8 @@ The Possion Points Plugin provides a tool to generate evenly distributed random 
    - Set the parameters for Width, Height, Radius, and MaxAttempts.
    - The function will return an array of `FVector2D` containing the generated points.
   
-     ![image](https://github.com/taklegko/PossionPointsPlugin/assets/168089606/1eb956a4-86ba-4bc5-8ffc-3c4840e8e7e9)
+    ![Снимок экрана 2024-06-10 191131](https://github.com/taklegko/PoissonPointsPlugin/assets/168089606/58b811a5-95a7-48ac-a258-4f27172d47a6)
+
 
 
 3. **Using in C++:**
