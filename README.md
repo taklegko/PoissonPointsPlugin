@@ -62,3 +62,6 @@ The Possion Points Plugin provides a tool to generate evenly distributed random 
 ```cpp
 TArray<FVector2D> Points = UPoissonPoints::GeneratePoissonPoints(12345, 500.0f, 500.0f, 20.0f, 30);
 ```
+
+#### License
+This code is distributed under the MIT License.
